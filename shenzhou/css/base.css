@@ -1,0 +1,85 @@
+body,p,h1,h2,h3,h4,h5,h6,ul,li,ol,dl,dd,dt{margin:0; padding:0;}
+body{font-size:14px;}
+li{list-style:none;}
+a{text-decoration:none; color:#000;}
+/*header*/
+
+#headerwrap{width: 100%;height: 36px; background-color: #f4f4f4; }
+#header{width: 1240px; height: 36px; background-color: #f4f4f4;margin: 0 auto}
+#header ul{float: left; height: 36px; line-height: 36px;  font-size: 12px; color: #666}
+#header ol{float: right;  height: 36px; line-height: 36px;}
+#header ol li{float: left;}
+#header ol li a {font-size: 12px; color: #666 ; padding:0 10px 0; border-left:1px solid #666;}
+#header ol li:last-child a{padding-left: 10px;}
+/*logo*/
+
+#logo{width: 1240px; height: 110px; margin: 0 auto;}
+#logo img{ float: left; padding-top:40px; }
+#logo form{float: left; padding-top: 35px; margin-left: 130px; }
+#input1{width: 364px; height: 38px; line-height: 38px ;float: left;}
+#input2{width: 38px; height: 38px; line-height: 38px; background-color: white ;border: 1px  solid #bbbbbb;float: left;}
+#logo form ul{width:400px; height: 20px;  }
+#logo form ul li{float: left; padding-top:2px;}
+#logo form ul li a{font-size: 14px; color:#bbbbbb; border-right: 1px solid #bbbbbb; padding: 0 8 0;}
+#logo_shop{background: rgba(0, 0, 0, 0) url("../images/shop_car.png") no-repeat scroll 7px center;
+    color: #666;
+    display: block;
+    font-size: 16px;
+    line-height: 38px;
+    padding-left: 44px;
+    text-align: left;}
+#logo_shop{width:100px;height: 38px; float: left; border: 1px solid #bbb ;
+ 			margin-top: 35px; margin-left: 10px; line-height: 38px;}
+#logo_shop span{font-size: 20px; color:red; border-left: 1px solid #bbbbbb; padding-left: 10px;}
+#logo_right {width: 245px;float: left; margin-top: 28px; margin-left: 50px}
+#logo_right dl{float: left;}
+#logo_right dl:last-child{border-left: 1px solid #bbb; padding-left: 10px;}
+#logo_right dl:first-child { padding-right: 10px;}
+#logo_right dl:first-child img{padding-top: 0}
+#logo_right dl:first-child dd{font-size: 12px; color:  #d61818}
+#logo_right dl:last-child dt{font-size: 25px; color: #d61818; font-weight: bold;}
+#logo_right dl:last-child dd{font-size:13px; color: red}
+/*nav*/
+#nav_wrap{width: 100%; height: 45px; background:  #d61818}
+#nav{width: 1240px; height: 45px;background:  #d61818; margin: 0 auto }
+#nav_left{width: 252px; height: 45px; float: left;}
+#nav_left li{width: 252px ;height: 45px ;background: #f33c11; text-align: center; line-height: 45px;}
+#nav_left li a{color:white;font-size: 18px;font-weight: bold;font-family: Arial,Microsoft YaHei,sans-serif;}
+#nav_right{float: left; height: 45px; }
+#nav_right li{float: left;height: 45px; }
+#nav_right li a{color:white;font-size: 18px;font-weight: bold;cursor: pointer;
+	padding: 0 35px 0 36px;font-family: Arial,Microsoft YaHei,sans-serif; line-height: 45px; display: block;}
+#nav_right li a:hover{background-color:#f33c11; display: block }
+/*footer*/
+#footer_wrap{width: 100%;margin: auto; background: #f2f2f2}
+#footer{width: 1240px;height: auto; margin: auto; background: #f2f2f2}
+.footer_top{height: 159px; border-bottom: 1px solid #ccc}
+.footer_top li{width:20%; float: left; text-align: center;}
+.footer_top li img{margin-top: 30px;}
+.footer_top li p { color: #666;font-size: 18px; height: 18px;line-height: 18px;padding: 25px 0 35px;}
+ .footer_nav{height: 186px;padding-top: 40px;text-align: left;}
+.footer_nav_li1 {float:left;width: 14.3%;}
+.footer_nav_li1 a{ display: block;color: #666;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 18px;
+    margin: 14px 0;
+    overflow: hidden;
+    padding-left: 40px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+ font-family: Arial,Microsoft YaHei,sans-serif;}
+.footer_nav ol{padding-left: 20px;}
+.footer_nav_li1 ol a{ color: #666;
+    display: block;
+    font-size: 14px;
+    line-height: 30px;
+    padding-left: 20px;
+    overflow: hidden;
+    font-weight:normal;
+    text-overflow: ellipsis;
+    white-space: nowrap;}
+.footer_nav_li2 p{font-size: 12px;
+    line-height: 34px; color: #666;
+    font-family: Arial,Microsoft YaHei,sans-serif;}
+    .footer_nav_li2 b{font-size: 18px; font-weight: bold;}

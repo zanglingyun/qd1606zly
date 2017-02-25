@@ -1,0 +1,232 @@
+{
+    "links": [
+        {
+            "img": "images/main1.jpg"
+
+        },
+        {
+             "img": "images/main2.jpg"
+        },
+        {
+            "img": "images/main3.jpg"
+
+        },
+        {
+            "img": "images/main4.jpg"
+
+        }
+    ],
+    "xilie":[
+     {
+         "a": "战神系列"
+     },
+     {
+         "a": "超级战神"
+     },
+     {
+         "a": "飞天系列"
+     },
+     {
+         "a": "定制机"
+     }
+    ],
+    "pingmu":[
+     {
+         "a": "11.6英寸"
+     },
+     {
+         "a": "12.5英寸"
+     },
+     {
+         "a": "14.0英寸"
+     },
+     {
+         "a": "10.1英寸及以下"
+     },
+     {
+         "a": "15.6英寸"
+     },
+     {
+         "a": "17.3英寸"
+     },
+     {
+         "a": "19.5英寸及以上"
+     }
+    ],
+    "redian":[
+     {
+         "a": "商务办公"
+     },
+     {
+         "a": "发烧游戏"
+     },
+     {
+         "a": "学生用机"
+     },
+     {
+         "a": "图形处理"
+     },
+     {
+         "a": "女士选择"
+     },
+     {
+         "a": "影音专享"
+     },
+     {
+         "a": "超值上网本"
+     }
+    ],
+    "cpu":[
+     {
+         "a": "英特尔® 酷睿™ i3"
+     },
+     {
+         "a": "英特尔® 酷睿™ i5"
+     },
+     {
+         "a": "英特尔® 酷睿™ i7"
+     },
+     {
+         "a": "英特尔® 酷睿™ M"
+     },
+     {
+         "a": "英特尔®赛扬"
+     },
+     {
+         "a": "英特尔®至强"
+     },
+     {
+         "a": "英特尔®奔腾"
+     },
+     {
+         "a": "英特尔@凌动"
+     },
+     {
+         "a": "英特尔Cherry Trail"
+     }
+    ],
+    "xianka":[
+     {
+         "a": "入门级独显"
+     },
+     {
+         "a": "高性能级独显"
+     },
+     {
+         "a": "游戏显卡"
+     },
+     {
+         "a": "GTX1060"
+     },
+     {
+         "a": "GT940M"
+     },
+     {
+         "a": "GTX950M"
+     },
+     {
+         "a": "GTX980M"
+     },
+     {
+         "a": "GTX970M"
+     },
+     {
+         "a": "GTX965M"
+     },
+     {
+         "a": "GTX960M"
+     },
+     {
+         "a": "GTX970M"
+     },
+     {
+         "a": "GTX965M"
+     },
+     {
+         "a": "GTX960M"
+     },
+     {
+         "a": "GTX965M"
+     },
+     {
+         "a": "GTX960M"
+     },
+     {
+         "a": "GTX970M"
+     },
+     {
+         "a": "GTX965M"
+     },
+     {
+         "a": "GTX960M"
+     }
+    ],
+    "fenbianlv":[
+     {
+         "a": "普通屏（1366x768）"
+     },
+     {
+         "a": "高分屏（1600x900）"
+     },
+     {
+         "a": "全高清屏（1920x1080）"
+     },
+     {
+         "a": "标配屏（1280x1024 ）"
+     },
+     {
+         "a": "其它"
+     },
+     {
+         "a": "不标配显示器"
+     },
+     {
+         "a": "4K高清屏"
+     }
+    ],
+    "jiage":[
+     {
+         "a": "1000元及以下"
+     },
+     {
+         "a": "1000元~2999元）"
+     },
+     {
+         "a": "3000元~3999元）"
+     },
+     {
+         "a": "4000元~4999元"
+     },
+     {
+         "a": "5K~1W元"
+     },
+     {
+         "a": "1W-2W元"
+     },
+     {
+         "a": "2W元以上"
+     }
+    ],
+
+"shangpin":[{"id":0,"img":"../images/shop1.png","peizhi":"15.6英寸IPS/G4560/8G/1TB/GTX1050 4G","xinghao":"战神K670D-G4D1","jiage":"￥4499.00","pinglun":"0人评论"},
+	{"id":1,"img":"../images/shop2.png","peizhi":"15.6英寸IPS/i5-7300HQ/8G/256G/GTX1050 Ti 4G","xinghao":"战神K660D-G4D3","jiage":"￥4199.00","pinglun":"0人评论"},
+	{"id":2,"img":"../images/shop3.png","peizhi":" 15.6英寸IPS/i7-7700HQ/8G/256G/GTX1050 Ti 4G DDR5","xinghao":"战神K650D-G4D2","jiage":"￥3899.00","pinglun":"0人评论"},
+	{"id":3,"img":"../images/shop4.png","peizhi":"15.6英寸IPS/i7-6700HQ/8G/1TB/GTX965M 2G独显","xinghao":"战神Z7-SP5D1","jiage":"￥6599.00","pinglun":"0人评论"},
+	{"id":4,"img":"../images/shop5.png","peizhi":" 15.6英寸IPS/i5 6300HQ/8G/240G固态/ GTX965M 2G","xinghao":"战神Z7M-SL7","jiage":"￥5399.00","pinglun":"0人评论"},
+	{"id":5,"img":"../images/shop6.png","peizhi":" 15.6英寸IPS/i7-6700HQ/8G/128G+1TB/GTX965M 2G","xinghao":"战神K660D-G4D2","jiage":"￥4299.00","pinglun":"0人评论"},
+	{"id":6,"img":"../images/shop7.png","peizhi":"15.6英寸IPS/i5-7300HQ/8G/256G/GTX1050 Ti 4G","xinghao":"战神Z8-SP7S2","jiage":"￥9199.00","pinglun":"0人评论"},
+	{"id":7,"img":"../images/shop8.png","peizhi":"  15.6英寸IPS/i7-7700HQ/8G/256G/GTX1050 Ti 4G DDR5","xinghao":"战神ZX8-SP7S2","jiage":"￥10999.00","pinglun":"0人评论"},
+	{"id":8,"img":"../images/shop1.png","peizhi":"15.6英寸IPS/G4560/8G/1TB/GTX1050 4G","xinghao":"战神K670D-G4D1","jiage":"￥4499.00","pinglun":"0人评论"},
+	{"id":9,"img":"../images/shop2.png","peizhi":"15.6英寸IPS/G4560/8G/1TB/GTX1050 4G","xinghao":"战神K670D-G4D1","jiage":"￥4499.00","pinglun":"0人评论"},
+    {"id":10,"img":"../images/shop1.png","peizhi":"15.6英寸IPS/G4560/8G/1TB/GTX1050 4G","xinghao":"战神K670D-G4D1","jiage":"￥4499.00","pinglun":"0人评论"},
+    {"id":11,"img":"../images/shop2.png","peizhi":"15.6英寸IPS/G4560/8G/1TB/GTX1050 4G","xinghao":"战神K670D-G4D1","jiage":"￥4499.00","pinglun":"0人评论"}]
+}
+        
+       
+        
+       
+       
+
+
+
+

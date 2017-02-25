@@ -1,0 +1,230 @@
+{
+	"links": [
+        {
+            "img": "images/main1.jpg"
+
+        },
+        {
+             "img": "images/main2.jpg"
+        },
+        {
+            "img": "images/main3.jpg"
+
+        },
+        {
+            "img": "images/main4.jpg"
+
+        }
+    ],
+    "nav1":[
+        {
+            "img": "images/nav1_1.png",
+           "biaoti":"至强王者", 
+            "leibie":"超级战神",
+            "xinghao":"<p>战神G8-KP7S1</p><p>战神ZX8-SP7S2</p><p>战神Z7-SP7S2</p><p>战神ZX7-SP5D1</p><p>战神GX10-SP7S1</p>"
+        },
+        {
+            "img": "images/nav1_2.png",
+           "biaoti":"定制最合适", 
+            "leibie":"定制机",
+            "xinghao":""
+        },
+        {
+            "img": "images/nav1_3.png",
+           "biaoti":"性能强悍", 
+            "leibie":"战神系列",
+            "xinghao":"<p>战神G8-KP7S1</p><p>战神ZX8-SP7S2</p><p>战神Z7-SP7S2</p><p>战神ZX7-SP5D1</p><p>战神GX10-SP7S1</p>"
+        },
+        {
+            "img": "images/nav1_4.png",
+           "biaoti":"体验卓越", 
+            "leibie":"飞天系列",
+            "xinghao":""
+        }
+    ],
+    "nav2":[
+        {
+            "img": "images/nav2_1.png",
+           "biaoti":"轻薄商务", 
+            "leibie":"优雅XS系列",
+            "xinghao":"<p>优雅XS-3000S1</p><p>优雅XS-3150S1</p><p> 优雅X4-SL5 S1</p><p>  优雅XS-5Y71S2</p>"
+        },
+        {
+            "img": "images/nav2_2.png",
+           "biaoti":"时尚轻薄", 
+            "leibie":"定制机",
+            "xinghao":"<p>优雅U6-SL1G1</p>"
+        },
+        {
+            "img": "images/nav2_3.png",
+           "biaoti":" 超值实用", 
+            "leibie":"优雅K&HP&A系列",
+            "xinghao":"<p>优雅A480B-M10D6</p>"
+        }
+    ],
+    "nav3":[
+        {
+            "img": "images/nav3_1.png",
+            "biaoti":"功能强大", 
+            "leibie":"pcpad",
+            "xinghao":"<p>PCpad-X5</p><p>PCpad-X5</p><p>神舟PCpad-pro</p><p>神舟PCpad-CM</p><p>神舟PCpad-plus</p>"
+        }
+    ],
+    "nav4":[
+        {
+            "img": "images/nav4_1.png",
+            "biaoti":"畅爽游戏", 
+            "leibie":"战神系列",
+            "xinghao":"<p>PCpad-X5</p><p>PCpad-X5</p><p>神舟PCpad-pro</p><p>神舟PCpad-CM</p><p>神舟PCpad-plus</p>"
+        },
+        {
+            "img": "images/nav4_2.png",
+            "biaoti":"家用娱乐", 
+            "leibie":"新锐系列",
+            "xinghao":"<p>PCpad-X5</p><p>PCpad-X5</p><p>神舟PCpad-pro</p><p>神舟PCpad-CM</p><p>神舟PCpad-plus</p>"
+        },
+        {
+            "img": "images/nav4_3.png",
+            "biaoti":"小巧轻薄", 
+            "leibie":"minipc",
+            "xinghao":"<p>PCpad-X5</p><p>PCpad-X5</p><p>神舟PCpad-pro</p><p>神舟PCpad-CM</p><p>神舟PCpad-plus</p>"
+        },
+        {
+            "img": "images/nav4_4.png",
+            "biaoti":"高效办公", 
+            "leibie":"新梦系列",
+            "xinghao":"<p>PCpad-X5</p><p>PCpad-X5</p><p>神舟PCpad-pro</p><p>神舟PCpad-CM</p><p>神舟PCpad-plus</p>"
+        }
+    ],
+    "nav5":[
+        {
+            "img": "images/nav5_1.png",
+            "biaoti":"高效办公", 
+            "leibie":"唐朝系列",
+            "xinghao":""
+        },
+        {
+            "img": "images/nav5_2.png",
+            "biaoti":"长辈专用", 
+            "leibie":"奔驰系列",
+            "xinghao":""
+        }
+    ],
+    "nav6":[
+        {
+            "img": "images/nav6_1.png",
+            "biaoti":"", 
+            "leibie":"商用笔记本",
+            "xinghao":"<p>神舟 QJW4A8</p><p>神舟QJW4A4</p><p>QJW4EE</p><p>QJW4N</p><p>HX400B5-I34000M</p>"
+        },   
+         {
+            "img": "images/nav6_2.png",
+            "biaoti":"", 
+            "leibie":"商用台式机",
+            "xinghao":"<p>HFMPBG36</p><p>HFMPBC32</p><p>HFMPBP9-商禧G3900X</p><p>HFMPBM9-商禧G3900X</p><p>HFMPBP9-商禧H8000X</p>"
+        },
+         {
+            "img": "images/nav6_3.png",
+            "biaoti":"", 
+            "leibie":"商用一体机",
+            "xinghao":"<p> 唐朝H400(T4200)</p><p> HFMPBC33-Z1009</p><p>HFMPBD33-Z2000</p><p> HFMPBC33-Z1000</p><p>HFMPBC9-Z2000</p>"
+        }
+    ],
+    "nav7":[
+        {
+            "img": "images/nav7_1.png",
+            "biaoti":"小影霸", 
+            "leibie":"显卡",
+            "xinghao":"<p> GT730 2G DD-R3</p>"
+        },
+        {
+            "img": "images/nav7_2.png",
+            "biaoti":"完美搭配", 
+            "leibie":"包类",
+            "xinghao":"<p>   背包-新款神舟双肩</p><p>背包-战神</p>"
+        },
+        {
+            "img": "images/nav7_3.jpg",
+            "biaoti":"神舟高清显示器", 
+            "leibie":"显示器",
+            "xinghao":""
+        },
+        {
+            "img": "images/nav7_4.png",
+            "biaoti":"游戏专属", 
+            "leibie":"外设",
+            "xinghao":"<p>战神-6D炫彩游戏鼠</p><p>战神-鼠标垫</p>"
+        }
+    ],
+		
+    "star" : [
+    	{
+            "img": "images/main_star1.jpg",
+            "xinghao":"战神K680E-G6D1",
+            "peizhi":"15.6英寸IPS/i5-7400/8G/128G+1TB/GTX1050Ti ",
+            "jiage":"￥6199.00"
+
+        },
+        {
+             "img": "images/main_star2.jpg",
+            "xinghao":"战神K660D-G4D3",
+            "peizhi":"15.6英寸/G4560/4G/500G/GTX960M 4G ",
+            "jiage":"￥4199.00"
+        }
+       
+    ],
+    "star_bottom":[
+    	 {
+            "img": "images/main_star3.png",
+            "xinghao":"优雅XS-3000S1",
+            "peizhi":"14.0英寸IPS/N3160处理器/4G/256G SSD /HD400 ",
+            "jiage":"￥3199.00"
+
+        },
+        {
+           "img": "images/main_star4.png",
+            "xinghao":"PCpad-X5",
+            "peizhi":"intel Z8500/4G 运行内存/64G 存储/Win10 ",
+            "jiage":"￥1699.00"
+        },
+        {
+           "img": "images/main_star5.png",
+            "xinghao":"战神Z6-KP5S1",
+            "peizhi":"15.6英寸/i5-7300HQ/8G/256G/GTX1050 2G DDR5 ",
+            "jiage":"￥5499.00"
+        },
+        {
+           "img": "images/main_star6.png",
+            "xinghao":"优雅X4-SL5 S1",
+            "peizhi":"14.0英寸/i5-6200U/8G/256G SSD ",
+            "jiage":"￥4199.00"
+        }
+    ],
+    "shop4":[
+         {
+            "img": "images/shop4_1.png",
+            "xinghao":"新款神舟双肩背包",
+            "peizhi":"舒适透气休闲学生电脑背包",
+            "jiage":"￥199.00"
+
+        },
+        {
+           "img": "images/shop4_2.png",
+            "xinghao":"战神背包",
+            "peizhi":"本款产品不单独销售，需搭配其他笔记本产品",
+            "jiage":"￥99.00"
+        },
+        {
+           "img": "images/shop4_3.png",
+            "xinghao":"21.5英寸显示器",
+            "peizhi":"1080p分辨率 ",
+            "jiage":"￥699.00"
+        },
+        {
+           "img": "images/shop4_4.png",
+            "xinghao":"战神-6D游戏鼠标",
+            "peizhi":"战神-6D游戏鼠标 ",
+            "jiage":"￥128.00"
+        }
+    ]
+}

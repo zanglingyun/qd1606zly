@@ -1,0 +1,56 @@
+* {
+    border: 0 none;
+    color: #666;
+    font-family: Arial,Microsoft YaHei,sans-serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none
+}
+#header_wrap{width: 100%; height: 60px;}
+#header{width: 1240px;height: 60px; margin: 0 auto;border-bottom:1px solid #ddd;}
+#header img{float: left; margin: 14px auto;  }
+#header p{border-left: 1px solid #ddd;float: left;font-size: 24px;height: 33px;
+line-height: 33px; margin: 14px 0 0 20px;padding-left: 17px;}
+#main{width: 100% ; height: 700px; position: relative;}
+#main img{width: 100% ; height: 470px;}
+
+#huiyuan {
+    height: 370px;
+    background: white;
+    width: 290px;
+	position: absolute;z-index: 0;
+	left:854px;top: 100px;
+padding:0 29px;}
+#huiyuan p{margin-bottom: 20px;}
+#huiyuan h2{ font-size: 18px;font-weight: normal;height: 54px;line-height: 54px;}
+#huiyuan .p1{border: 1px solid #ddd; height: 38px;margin-bottom: 12px;padding-left: 36px;width: 249px; float: left; margin-bottom: 20px;}
+#huiyuan .p1 input{border-left: 1px solid #ddd;height: 38px;line-height: 38px;text-indent: 8px;width: 249px;}
+#huiyuan .p2{border: 1px solid #ddd; height: 38px;margin-bottom: 12px;padding-left: 36px;width: 249px; float: left; margin-bottom: 20px;}
+
+#huiyuan .p2 input{border-left: 1px solid #ddd;height: 38px;line-height: 38px;text-indent: 8px;width: 249px;}
+#huiyuan .p1{background: rgba(0, 0, 0, 0) url("../images/reg_icon.png") no-repeat scroll -2px 0}
+#huiyuan .p2{background: rgba(0, 0, 0, 0) url("../images/reg_icon.png") no-repeat scroll 0 -68px;}
+#huiyuan .p3{margin-bottom: 20px;}
+#button {background: #f33c11 none repeat scroll 0 0;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 18px;
+    height: 34px;
+    line-height: 34px;
+    width: 290px;}
+.p5 a{color: #f33c11; margin-right: 18px; cursor: pointer; }
+.p6 span{display: block;
+    line-height: 20px;
+    margin-bottom: 8px;}
+.qq{display: inline-block;
+    float: left;
+    height: 29px;
+    margin-right: 30px;
+    width: 35px; background: rgba(0, 0, 0, 0) url("../images/login1_hzuo.png") no-repeat scroll 0 0;}
+.weibo { display: inline-block;
+    float: left;
+    height: 29px;
+    margin-right: 30px;
+    width: 35px;background: rgba(0, 0, 0, 0) url("../images/login1_hzuo.png") no-repeat scroll -120px 0;}

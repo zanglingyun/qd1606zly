@@ -1,0 +1,37 @@
+* {
+    border: 0 none;
+    color: #666;
+    font-family: Arial,Microsoft YaHei,sans-serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none
+}
+#header_wrap{width: 100%; height: 60px;}
+#header{width: 1240px;height: 60px; margin: 0 auto;border-bottom:1px solid #ddd;}
+#header img{float: left; margin: 14px auto;  }
+#header p{border-left: 1px solid #ddd;float: left;font-size: 24px;height: 33px;
+line-height: 33px; margin: 14px 0 0 20px;padding-left: 17px;}
+table{border-collapse: collapse;
+    text-align: center;
+    width: 100%;height: 50px;
+ background: #44c1f3;
+ color: #fff;
+    font-size: 16px;}
+tr td{width: 220px;text-align: center;}
+tr td:nth-child(1) {
+    width: 395px;
+}
+#main ul li{
+	border-bottom: 1px solid #ccc;
+	height: 100px;
+}
+#main ul li img{width: 100px;height: 100px;float: left;}
+#main p{float: left; line-height: 100px; padding: 0 40px; height: 100px; width: 120px; border-left: 1px solid #ccc}
+#main p:nth-child(3){padding-left: 100px;}
+#main p:nth-child(4){padding-left:60px;}
+#main p:nth-child(5){padding-left: 50px;}
+#main p:nth-child(6){ }
+.sc_goodsPic{width: 125px; height: 100px; text-align: center;float: left; padding-left: 40px;}
+#main p input{width: 50px ;height: 30px; cursor: pointer;margin-top:30px; margin-left: 50px;  }

@@ -1,0 +1,115 @@
+body,p,h1,h2,h3,h4,h5,h6,ul,li,ol,dl,dd,dt{margin:0; padding:0;}
+body{font-size:14px; font-family:Arial,Microsoft YaHei,sans-serif;}
+li{list-style:none;}
+a{text-decoration:none; color:#000;cursor: pointer;color: #666; font-family: Arial,Microsoft YaHei,sans-serif;}
+
+.goods_box ul{
+	width: 1240px;  height:400px;margin: 0 auto;
+
+}
+.goods_box ul li{width: 298px;border: 1px solid #ddd; text-align: center; float: left;margin-right: 10px;}
+.goods_box ul li a:nth-child(1){height: 236px ; display: block;
+	cursor: pointer;}
+.goods_box ul li a:nth-child(2){display: block;cursor: 
+	pointer;font-family: Arial,Microsoft YaHei,sans-serif;color:#f33c11;
+    font-size: 14px;
+    font-weight: normal;
+    height: 22px;
+    line-height: 22px;
+    overflow: hidden;}
+.goods_box ul li img{width: 222px; height: 236px;}
+.goods_box ul li p { font-size: 12px;height: 38px;line-height: 19px;margin: 5px 20px;color: #666;}
+.goods_box ul li h3{color: #d61818;font-size: 24px;font-weight: normal;
+ line-height: 38px;margin-bottom: 20px;font-family: Arial,Microsoft YaHei,sans-serif;}
+.goods_box td{width: 50%; border-top: 1px solid #ccc}
+.goods_box table {border-top: 1px solid #ccc;border-collapse: collapse;}
+.goods_box table td:first-child {border-right: 1px solid #ccc;}
+.goods_box tr td span{text-align:right; padding-right: 10px;font-family: Arial,Microsoft YaHei,sans-serif;}
+.goods_box tr td span{background: rgba(0, 0, 0, 0) url("../images/shop_gouwuche1.png") no-repeat scroll 32px center;
+
+    color: #d61818;
+display: block;
+    height: 37px;
+    line-height: 37px;}
+ #main h2{ color: #333;
+    font-size: 14px;
+    font-weight: normal;
+    height: 30px;
+    left: 0;
+    padding-left: 14px;
+    position: absolute;
+    top: 7px;
+    width: 114px;}
+ #main{border: 1px solid #ccc;margin: 9px auto; width:1240px;}
+ #main li{border-bottom: 1px solid #eee;
+    line-height: 30px;
+    min-height: 30px;
+    overflow: hidden;
+    padding: 7px 0;
+    position: relative;
+    z-index: 1;}
+#main div{overflow: hidden;
+    padding-left: 128px;}
+#main div a{display: inline-block;
+    float: left;
+    font-size: 14px;
+    margin-right: 52px;}
+#main a:hover{color: red}
+.all_class {
+    display: none;
+    height: 500px;
+    width: 1240px;}
+.all_class ol{background: #f33c11 none repeat scroll 0 0;
+    height: 500px;
+    position: relative;
+    width: 252px;
+    z-index: 10;}
+ #nav .all_class ol li{background: rgba(0, 0, 0, 0) url("../images/nav_bg1.png") repeat-x scroll center bottom;
+    height: 62.5px;
+    line-height: 62.5px;width: 252px;}
+#nav .all_class .nav_0{display: block; font-weight: normal;width: 252px;height: 62.5px;}
+#nav .all_class .nav_0:hover{background: white ;color: #f33c11;display: block;width: 252px; height: 62.5px;}
+#nav dl {
+    background: #fff none repeat scroll 0 0;
+    height: 480px;
+    left: 100%;
+    padding: 20px 0 0 5px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 976px;
+    z-index: 10;
+    display: none
+}
+#nav_left ul{display: none;}
+#nav #nav_left dd img{width: 148px; height: 148px; }
+#nav #nav_left dd{float: left;
+    margin: 0 5px;
+    width: 150px;}
+ #nav #nav_left dd a{border: 1px solid #ccc;
+    display: inline-block;
+    height: 148px;
+    margin: 0 auto 2px;
+    width: 148px;}
+#nav #nav_left h2{background: #415695 none repeat scroll 0 0;
+    color: #fff;
+    font-size: 18px;
+    font-weight: normal;
+    height: 35px;
+    line-height: 35px;margin: 10px 0; }
+#nav #nav_left h3{
+    font-size: 18px;
+    height: 48px;
+    line-height: 48px;
+    color: #666
+}
+#nav #nav_left  p{
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+    color: #666;
+
+}
+#nav #nav_left .all_class dl dd:nth-child(2) h2{background: #3083bb}
+#nav #nav_left .all_class dl dd:nth-child(3) h2{background: #8fbec9}
+#nav #nav_left .all_class dl dd:nth-child(4) h2{background: #cc9c36}
